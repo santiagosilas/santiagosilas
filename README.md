@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=santiagosilas&show_icons=true&theme=transparent)
+
 <!--
 **santiagosilas/santiagosilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
